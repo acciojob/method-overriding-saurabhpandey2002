@@ -19,6 +19,6 @@ public class Main {
         System.out.println(objB.meth()); // Output: Method is overridden in Extended class B
 
         // Task 5: call this overridden method from obj of class B
-        System.out.println(objB.meth()); // Output: Method is overridden in Extended class B
+//        System.out.println(objB.meth()); // Output: Method is overridden in Extended class B
     }
 }
